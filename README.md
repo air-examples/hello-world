@@ -1,6 +1,6 @@
 # Hello World
 
-The very first web application built using [Air](https://github.com/sheng/air).
+The very first web application built using [Air](https://github.com/aofei/air).
 
 ## Installation
 

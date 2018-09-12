@@ -1,6 +1,6 @@
 package main
 
-import "github.com/sheng/air"
+import "github.com/aofei/air"
 
 func main() {
 	air.GET("/", func(req *air.Request, res *air.Response) error {
