@@ -1,3 +1,3 @@
 module github.com/air-examples/hello-world
 
-require github.com/aofei/air v0.0.0-20180930021743-8d105e3abc26
+require github.com/aofei/air v0.0.0-20181011043525-60de22b34d27
