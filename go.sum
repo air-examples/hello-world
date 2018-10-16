@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/aofei/air v0.0.0-20181015024235-ffbfec348a94 h1:Vynk0xY71x1dMLTsrVc3IHMoVovTDYdsfhKibjPztPs=
-github.com/aofei/air v0.0.0-20181015024235-ffbfec348a94/go.mod h1:nkiS3lP4Cw03B5hO5dnbFsoKOeDEDjNS4mO46QfRih4=
+github.com/aofei/air v0.0.0-20181016022733-d0144dab331e h1:86F6i4LXudjOGBbEU4NQyIg8rDl6WoVcWbfRQU+/jzo=
+github.com/aofei/air v0.0.0-20181016022733-d0144dab331e/go.mod h1:nkiS3lP4Cw03B5hO5dnbFsoKOeDEDjNS4mO46QfRih4=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
