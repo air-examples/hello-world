@@ -4,22 +4,11 @@ The very first web application built using [Air](https://github.com/aofei/air).
 
 ## Installation
 
-Open your terminal and execute
+Check out the latest version of this example and enter it
 
 ```bash
-$ go get github.com/air-examples/hello-world
-```
-
-done.
-
-> The only requirement is the [Go](https://golang.org), at least v1.9.
-
-## Usage
-
-Enter the directory where this example is located
-
-```bash
-$ cd $GOPATH/src/github.com/air-examples/hello-world
+$ git clone https://github.com/air-examples/hello-world.git
+$ cd hello-world
 ```
 
 and run it
