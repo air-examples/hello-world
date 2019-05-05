@@ -4,7 +4,7 @@ The very first web application built using [Air](https://github.com/aofei/air).
 
 ## Installation
 
-Check out the latest version of this example and enter it
+Check out the latest version of Hello World and enter it
 
 ```bash
 $ git clone https://github.com/air-examples/hello-world.git
@@ -21,17 +21,17 @@ then visit `http://localhost:8080`.
 
 ## Community
 
-If you want to discuss this example, or ask questions about it, simply post
+If you want to discuss Hello World, or ask questions about it, simply post
 questions or ideas [here](https://github.com/air-examples/hello-world/issues).
 
 ## Contributing
 
-If you want to help build this example, simply follow
+If you want to help build Hello World, simply follow
 [this](https://github.com/air-examples/hello-world/wiki/Contributing) to send
 pull requests [here](https://github.com/air-examples/hello-world/pulls).
 
 ## License
 
-This example is licensed under the Unlicense.
+This project is licensed under the Unlicense.
 
 License can be found [here](LICENSE).
