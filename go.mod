@@ -1,3 +1,5 @@
 module github.com/air-examples/hello-world
 
-require github.com/aofei/air v0.12.2
+go 1.13
+
+require github.com/aofei/air v0.12.5
